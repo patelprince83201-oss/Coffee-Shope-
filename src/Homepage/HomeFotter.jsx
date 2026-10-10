@@ -50,10 +50,10 @@ const HomeFotter = () => {
                  <h3 className='contect-heding'> FOLLOW US  </h3>
 
                  <div className="follow-link">
-                 <p className='followimg'><FaInstagram /> </p>
-                 <p className='followimg'> <FaFacebook /></p>
-                    <p className='followimg'><FaLinkedin /></p>
-                  <p className='followimg'><FaWhatsapp /></p>
+                 <a className='followimg' href='https://www.instagram.com'><FaInstagram /> </a>
+                 <a className='followimg' href='https://www.facebook.com'><FaFacebook /></a>
+                    <a className='followimg' href='https://www.linkedin.com'><FaLinkedin /></a>
+                  <a className='followimg' href='https://www.whatsapp.com'><FaWhatsapp /></a>
                  </div>
 
                  <div className="update-heding">

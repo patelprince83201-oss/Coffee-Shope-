@@ -301,10 +301,15 @@ border-right:2px solid rgb(63, 39, 30) ;
  justify-content:space-evenly;
   background-color: #241302;
   margin-top: 1.2rem;
-  color:white;
   font-size:1.3rem;
 }
-
+.followimg{
+  color:white;
+}
+.followimg:hover{
+  color:burlywood;
+  transform: scale(1.2);
+}
 .update-heding{
   height: 8rem;
   display: flex;
